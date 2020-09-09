@@ -1,0 +1,14 @@
+  439  pip install scrapy
+  518  scrapy list
+  525  scrapy list
+  526  scrapy list
+  527  scrapy list
+  528  scrapy list
+  554  scrapy list
+  555  scrapy list
+  556  scrapy list
+  557  scrapy list
+  558  scrapy list
+  559  scrapy list
+  560  scrapy list
+  562  history | grep scrapy > historial.txt
