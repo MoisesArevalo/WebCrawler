@@ -11,4 +11,6 @@ Se encuentra configurado para realizar la busqueda en los siguientes buscadores:
   Google
   Bing
   Yahoo
+  ##### Para la ejecucion > python crawlerProject/crawlerProject/main.py
+
   
